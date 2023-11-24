@@ -9,7 +9,7 @@
 
 - 🌱 Learning more about **Microcontrollers , Embedded Software.**
 
-- 📫 How to reach me **mustafawajih3@gmail.com**
+- 📫 How to reach me **linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
