@@ -1,7 +1,9 @@
 <h1 align="left">Howdy 👋, I'm Mustafa Wajih</h1>
 <h3 align="left">👨🏻‍💻 About Me </h3>
 <h3 align="left">I'm a mechatronics student who is passionate about Embedded Software.</h3>
-<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="250" 
+src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafawajih&label=Profile%20views&color=0e75b6&style=flat" alt="mustafawajih" /> </p>
 
